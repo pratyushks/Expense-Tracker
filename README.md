@@ -30,3 +30,5 @@
 2. Set up a MySQL database and update the database configuration in the application.
 3. Compile and run the Java application.
 4. Create an account, set a password, and start tracking your expenses!
+
+![image](https://github.com/pratyushks/Expense-Tracker/assets/130221745/fb4f1a8a-e7aa-4540-a764-e95e3a92c0e8)
